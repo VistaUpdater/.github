@@ -8,8 +8,6 @@ Windows Vistaと7をワンクリックで更新する準備ができるツール
 - [スタード ガイド(プレビュー)](https://vistaupdater.net/guide.html) - はじめに
 - [YouTubeの動画(2023年5月版)](https://www.youtube.com/watch?v=m4o10AHj24k&t=0s) - YouTubeでのインストールガイド
 
-[vistaupdater.net](https://vistaupdater.net)へアクセスし、詳細を確認しましょう！
-
 ----
 
-ウェブサイトのコードのみを公開します。VistaUpdaterメインのコードは**クローズドソース**です。
+[vistaupdater.net](https://vistaupdater.net)へアクセスし、詳細を確認しましょう！
