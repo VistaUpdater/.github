@@ -10,3 +10,5 @@ Windows Vistaと7をワンクリックで更新する準備ができるツール
 ----
 
 [vistaupdater.net](https://vistaupdater.net)へアクセスし、詳細を確認しましょう！
+
+(VistaUpdaterのソースコードは、[こちら](https://github.com/raicdev/VistaUpdater)でご確認できます)
